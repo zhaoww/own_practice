@@ -11,6 +11,7 @@ import org.springframework.core.type.AnnotationMetadata;
 /**
  * 自定义ImportBeanDefinitionRegistrar
  * https://blog.csdn.net/baidu_19473529/article/details/105685333?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-12.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-12.nonecase
+ * https://zhuanlan.zhihu.com/p/30123517
  *
  * @author zhaoww
  * @since 2020/06/21
